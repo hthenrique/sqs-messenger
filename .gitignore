@@ -1,0 +1,8 @@
+target/
+out/
+*.jar
+*.zip
+.env
+*.log
+.DS_Store
+Thumbs.db
